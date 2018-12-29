@@ -3,7 +3,7 @@ HMNG FE6 rework, inspired by Thracia.
 
 ## Setup
 
-1. Install xdelta (https://www.romhacking.net/utilities/704/).
+1. Install a UPS patcher from (http://www.feshrine.net/hacking/patchers.php).
 2. Apply .ups patch.
 3. Enjoy!
 

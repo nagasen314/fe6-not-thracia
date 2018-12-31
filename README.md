@@ -10,10 +10,11 @@ HMNG FE6 rework, inspired by Thracia.
 ## Changelog
 
 ### Experimental Changes
-Every unit has a base C support with Roy, granting +5 hit/avo within 5 tiles.
-Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line
-Juno grants +5 hit/avo to Shanna and Tate
-Dayan grants +5 hit/avo to Sue and Shin
+Every unit has a base C support with Roy, granting +5 hit/avo within 5 tiles.  
+All support growth rates set to 0.
+Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line  
+Juno grants +5 hit/avo to Shanna and Tate.  
+Dayan grants +5 hit/avo to Sue and Shin.  
 
 ### Units:
 Roy: +1 MOV  

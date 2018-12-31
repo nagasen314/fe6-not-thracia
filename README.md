@@ -13,8 +13,14 @@ HMNG FE6 rework, inspired by Thracia.
 Every unit has a base C support with Roy, granting +5 hit/avo within 5 tiles.  
 All support growth rates set to 0.
 Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line  
-Juno grants +5 hit/avo to Shanna and Tate.  
-Dayan grants +5 hit/avo to Sue and Shin.  
+
+#### Sub-commanders
+Marcus -> Allen + Lance + Roy
+Barth -> Wendy + Bors
+Deke -> Wade + Lot
+Dayan -> Sue + Shin
+Juno -> Shanna + Tate
+Douglas + Cecilia + Perceval
 
 ### Units:
 Roy: +1 MOV  

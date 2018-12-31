@@ -15,12 +15,12 @@ All support growth rates set to 0.
 Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line  
 
 #### Sub-commanders
-Marcus -> Allen + Lance + Roy
-Barth -> Wendy + Bors
-Deke -> Wade + Lot
-Dayan -> Sue + Shin
-Juno -> Shanna + Tate
-Douglas + Cecilia + Perceval
+Marcus -> Allen + Lance + Roy  
+Barth -> Wendy + Bors  
+Deke -> Wade + Lot  
+Dayan -> Sue + Shin  
+Juno -> Shanna + Tate  
+Douglas + Cecilia + Perceval  
 
 ### Units:
 Roy: +1 MOV  

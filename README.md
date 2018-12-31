@@ -26,7 +26,7 @@ Barth: 25 -> 28 HP, 10 -> 15 STR
 ### Weapons  
 Rapier: +2 mt (5 -> 7)  
 Light Brand: -2 mt (9 -> 7), -3 wt (9 -> 6), 70 -> 75 hit, +3 DEF, Roy PRF  
-Hammer: 45 -> 50 hit
+Hammer: 45 -> 50 hit  
 Halberd: 55 -> 60 hit  
 Short Bow: 80 -> 85 hit  
 Steel Bow: 65 -> 70 hit  

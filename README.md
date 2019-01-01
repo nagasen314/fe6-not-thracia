@@ -37,7 +37,7 @@ Wendy: 19 -> 22 HP, 3 -> 14 SKL, 3 -> 5 SPD, 8 -> 10 DEF, 6 -> 10 LCK
 Barth: 25 -> 28 HP, 10 -> 15 STR  
 
 ### Weapons  
-Rapier: +2 mt (5 -> 7)  
+Rapier: +2 mt (5 -> 7), 25 -> 40 uses  
 Light Brand: -2 mt (9 -> 7), -3 wt (9 -> 6), 70 -> 75 hit, +3 DEF, Roy PRF  
 Hammer: 45 -> 50 hit  
 Halberd: 55 -> 60 hit  

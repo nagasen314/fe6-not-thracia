@@ -11,7 +11,7 @@ HMNG FE6 rework, inspired by Thracia.
 
 ### Experimental Changes
 Every unit has a base C support with Roy, granting +5 hit/avo within 3 tiles.  
-All support growth rates set to 0.
+All support growth rates set to 0.  
 Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line  
 Slim Lance: 80 -> 85 hit  
 Zeiss/Tate: D -> C base Lance rank  
@@ -48,8 +48,8 @@ Short Bow: 80 -> 85 hit
 Steel Bow: 65 -> 70 hit  
   
 ### PRF’s:  
-Roy - Light Brand (see above)
-Wade - Pugi: 1-2 rng, 9 wt, 80 hit, 8 mt, 40 durability
+Roy - Light Brand (see above)  
+Wade - Pugi: 1-2 rng, 9 wt, 80 hit, 8 mt, 40 durability  
 Dorothy - “Tower Bow” : 2-5 rng, 12 wt, 80 hit, 11 mt, 30 durability, +3 DEF  
 Lilina - FE12 Aura  
 Fir - FE5 Mareeta’s Sword (Zephiel lock)  

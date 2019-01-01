@@ -32,7 +32,7 @@ Bors: 1 -> 5 Lv, 7 -> 10 STR, 4 -> 8 SKL, 3 -> 11 SPD, 4 -> 6 LCK, 11 -> 10 DEF
 Elen: 50% -> 100% MAG   
 Lot: 4 -> 8 DEF, 35% -> 40% SPD  
 Lugh: 6 -> 12 SPD  
-Saul: 20 -> 22 HP, 2 -> 4 DEF
+Saul: 20 -> 22 HP, 2 -> 4 DEF  
 Dorothy: 19 -> 25 HP, 5 -> 10 STR, 4 -> 8 DEF, 7 -> 10 CON, 15% -> 35% DEF  
 Treck: 30% -> 65% SKL, 35% -> 45% SPD, 50% -> 55% LCK, 5% -> 10% RES, E -> D swords, D -> C lances  
 Oujay: 9 -> 12 SPD, 4 -> 8 DEF, 8 -> 10 CON, D -> C swords  

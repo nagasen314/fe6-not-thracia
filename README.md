@@ -48,7 +48,7 @@ Short Bow: 80 -> 85 hit
 Steel Bow: 65 -> 70 hit  
   
 ### PRF’s:  
-Roy - Light Brand (+3 def, -2 mt)  
+Roy - Light Brand (see above)
 Wade - Pugi: 1-2 rng, 9 wt, 80 hit, 8 mt, 40 durability
 Dorothy - “Tower Bow” : 2-5 rng, 12 wt, 80 hit, 11 mt, 30 durability, +3 DEF  
 Lilina - FE12 Aura  

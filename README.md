@@ -10,7 +10,7 @@ HMNG FE6 rework, inspired by Thracia.
 ## Changelog
 
 ### Experimental Changes
-Every unit has a base C support with Roy, granting +5 hit/avo within 5 tiles.  
+Every unit has a base C support with Roy, granting +5 hit/avo within 3 tiles.  
 All support growth rates set to 0.
 Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line  
 
@@ -24,7 +24,7 @@ Douglas + Cecilia + Perceval
 
 ### Units:
 Roy: +1 MOV  
-Wolt: 5 -> 10 SPD  
+Wolt: 4 -> 5 STR, 5 -> 10 SPD, 40% -> 50% STR  
 Bors: 1 -> 5 Lv, 7 -> 10 STR, 4 -> 8 SKL, 3 -> 11 SPD, 4 -> 6 LCK, 11 -> 10 DEF  
 Elen: 50% -> 100% MAG   
 Lot: 4 -> 8 DEF, 35% -> 40% SPD  

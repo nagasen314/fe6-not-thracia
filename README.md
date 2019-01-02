@@ -30,7 +30,7 @@ Douglas + Cecilia + Perceval
 
 ### Units:
 Roy: +1 MOV  
-Wolt: 4 -> 5 STR, 5 -> 10 SPD, 40% -> 50% STR  
+Wolt: 4 -> 5 STR, 5 -> 10 SPD, 40% -> 45% STR  
 Bors: 1 -> 5 Lv, 7 -> 10 STR, 4 -> 8 SKL, 3 -> 11 SPD, 4 -> 6 LCK, 11 -> 10 DEF  
 Elen: 50% -> 100% MAG   
 Lot: 4 -> 8 DEF, 35% -> 40% SPD  

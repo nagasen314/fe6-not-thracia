@@ -32,7 +32,7 @@ Douglas + Cecilia + Perceval
 Roy: +1 MOV  
 Wolt: 4 -> 5 STR, 5 -> 10 SPD, 40% -> 45% STR  
 Bors: 1 -> 5 Lv, 7 -> 10 STR, 4 -> 8 SKL, 3 -> 11 SPD, 4 -> 6 LCK, 11 -> 10 DEF  
-Elen: 50% -> 100% MAG   
+Elen: 50% -> 80% MAG, 70% -> 80% LCK, 60% -> 90% RES   
 Lot: 4 -> 8 DEF, 35% -> 40% SPD  
 Lugh: 6 -> 12 SPD  
 Saul: 20 -> 22 HP, 2 -> 4 DEF  

@@ -15,7 +15,9 @@ All support growth rates set to 0.
 Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line  
 Slim Lance: 80 -> 85 hit  
 Zeiss/Tate: D -> C base Lance rank  
-Shanna: 30% -> 35% hit, 4 -> 6 STR  
+Shanna: 30% -> 35% hit, 4 -> 5 STR  
+Hugh: Lv15 Mage -> Lv1 Sage, 17 -> 20 MAG, C -> A tomes, E -> B staffs  
+Sophia: Lv1 -> Lv9, x -> B staffs  
 
 #### Sub-commanders
 Marcus -> Allen + Lance  

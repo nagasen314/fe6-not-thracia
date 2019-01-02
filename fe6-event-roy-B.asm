@@ -17,14 +17,14 @@
 	
 	@ Set Constants
 	zero: .word 0x00000000
-	ldr r3,zero
+	ldr r3,zero @ Error: invalid offset, value too big
 	bsupp: .word 0x000000B1
-	ldr r2,bsupp
+	ldr r2,bsupp @ Error: invalid offset, target not word aligned + value too big
 	
 	@ CSP = CharStructPointer, initialize at beginning of char struct table.
 	CSP: .word 0x0202AB78
 	@ Load pointer to character data (based on CSP) into r0. Size: word
-	ldr r0,CSP
+	ldr r0,CSP @ Error: invalid offset, value too big
 
 LoopStart:
 	@ Check to see if pointer to character data is 0x0. If so, we're at the end. Exit.
@@ -40,7 +40,7 @@ LoopStart:
 	beq LoopEnd
 	
 	@ Set support partner #1 value to 0xB1 (stored in r2)
-	strb r2,[r0,#0x32]
+	strb r2,[r0,#0x32] @ Error: invalid offset, value too big
 	
 LoopEnd:
 	@  Increment character struct pointer by size of each struct.

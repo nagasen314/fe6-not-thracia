@@ -62,4 +62,4 @@ Halberd/Horseslayer/Rapier
 - bonus dmg to Troubadour class line  
 
 ### Map  
-Chapter 7: Sell “Lightning” tomes  
+Chapter 7, 9: Vendors now sell “Lightning” tomes.  

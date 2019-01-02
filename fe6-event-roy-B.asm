@@ -11,35 +11,38 @@
 	@ The ID is located at 6076D4, with an offset of +0x4
 	@ Roy's character ID is #0x01
 
-
-	.align 2
 	.thumb
 	
+	@ Notes
+	@ r0: CharStructPointer (CSP)
+	@ r1: CharDataPointer (CDP)
+	@ No guarantee that units in between won't be empty. Rethink your termination condition.
+	@ Count units (?)
+	@ Find out where the last character struct is located (?)
+	
 	@ Set Constants
-	zero: .word 0x00000000
-	ldr r3,zero @ Error: invalid offset, value too big
-	bsupp: .word 0x000000B1
+	.equ bsupp, 0x000000B1
 	ldr r2,bsupp @ Error: invalid offset, target not word aligned + value too big
 	
-	@ CSP = CharStructPointer, initialize at beginning of char struct table.
-	CSP: .word 0x0202AB78
+	@ Initialize CSP at beginning of char struct table.
+	.equ CSP, 0x0202AB78
 	@ Load pointer to character data (based on CSP) into r0. Size: word
 	ldr r0,CSP @ Error: invalid offset, value too big
 
 LoopStart:
-	@ Check to see if pointer to character data is 0x0. If so, we're at the end. Exit.
-	cmp r0,r3
+	@ Load CDP into r1 from CSP+0x0.
+	ldr r1,[r0]
+	@ Check to see if CDP is 0x0. If so, we're at the end. Exit.
+	cmp r1,#0
 	beq Exit
 	
-	@ Add #0x4 to CSP to find address of character ID, load into r1.
-	add r1,r0,#0x4
 	@ Load character ID at offset of #0x4 from r1 into r2. Size: byte
 	ldrb r2,[r1,#0x4]
 	@ Compare character ID (byte) against known constant (Roy'd ID). If equal, move onto next character struct.
 	cmp r2,#0x01
 	beq LoopEnd
 	
-	@ Set support partner #1 value to 0xB1 (stored in r2)
+	@ Set support partner #1 value (CSP+0x32) to 0xB1 (stored in r2)
 	strb r2,[r0,#0x32] @ Error: invalid offset, value too big
 	
 LoopEnd:

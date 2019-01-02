@@ -18,6 +18,7 @@ Zeiss/Tate: D -> C base Lance rank
 Shanna: 30% -> 35% hit, 4 -> 5 STR  
 Hugh: Lv15 Mage -> Lv1 Sage, 17 -> 20 MAG, C -> A tomes, E -> B staffs  
 Sophia: Lv1 -> Lv9, x -> B staffs  
+Warrior: Desert move cost 3 -> 2  
 
 #### Sub-commanders
 Marcus -> Allen + Lance  

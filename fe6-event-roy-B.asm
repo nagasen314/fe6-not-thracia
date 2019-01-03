@@ -22,7 +22,7 @@
 	
 	@ Set Constants
 	.equ bsupp, 0x000000B1
-	ldr r2,bsupp @ Error: invalid offset, target not word aligned + value too big
+	ldr r2,bsupp @ Error: invalid offset, value too big
 	
 	@ Initialize CSP at beginning of char struct table.
 	.equ CSP, 0x0202AB78
@@ -43,7 +43,7 @@ LoopStart:
 	beq LoopEnd
 	
 	@ Set support partner #1 value (CSP+0x32) to 0xB1 (stored in r2)
-	strb r2,[r0,#0x32] @ Error: invalid offset, value too big
+	strb r2,[r0,#0x32] @ Error: invalid offset, value too big (#0x00000032)
 	
 LoopEnd:
 	@  Increment character struct pointer by size of each struct.

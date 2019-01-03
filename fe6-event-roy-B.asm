@@ -16,6 +16,8 @@
 	@ Notes
 	@ r0: CharStructPointer (CSP)
 	@ r1: CharDataPointer (CDP)
+	@ r2: Support partner #1 address
+	@ r3: CSP -> Allegiance Byte (CSP+0x0B)
 	@ No guarantee that units in between won't be empty. Rethink your termination condition.
 	@ Count units (?)
 	@ Find out where the last character struct is located (?)
@@ -30,11 +32,17 @@
 	ldr r0,CSP @ Error: invalid offset, value too big
 
 LoopStart:
+	@ Load allegiance byte into r1 from CSP+0x0B.
+	ldrb r3,[r0,#0x0B]
+	@ Check to see if allegiance byte is 0x01 (PLAYER). If not, we're at the end. Exit.
+	cmp r3,#0x01
+	bne Exit
+	
 	@ Load CDP into r1 from CSP+0x0.
 	ldr r1,[r0]
-	@ Check to see if CDP is 0x0. If so, we're at the end. Exit.
-	cmp r1,#0
-	beq Exit
+	@ If the CDP is #0x0, move on.
+	cmp r1,#0x0
+	beq LoopEnd
 	
 	@ Load character ID at offset of #0x4 from r1 into r2. Size: byte
 	ldrb r2,[r1,#0x4]

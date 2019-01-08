@@ -31,8 +31,8 @@ LoopStart:
 	
 	@ Offset from CSP to Support Partner #1 value 
 	mov r1,#0x30
-	@ Points value for B-support
-	mov r2,#0xB1
+	@ Points value for A-support
+	mov r2,#0xF1
 	@ Store support partner #1 location: CSP+offset
 	strb r2,[r0,r1]
 	

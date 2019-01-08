@@ -1,0 +1,77 @@
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x157]
+[OpenMidRight][FastPrint][ToggleSmile]Princess Guinivere,
+I must speak with you.[A]
+[OpenMidLeft]
+...The attack on Bern will begin
+after we finish in Etruria.[A]
+[OpenMidRight]Did someone tell
+you already?[A]
+[OpenMidLeft][CloseSpeechFast]No... I simply knew that it would
+come to this eventually.[A]
+[OpenMidRight]...We cannot leave Bern
+unopposed any longer.[A]
+I know it will be painful to see
+your homeland invaded, but...[A]
+
+
+
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x157]
+[OpenMidLeft][MoveLeft][FastPrint]...Roy, I want you
+to have this.[A]
+[OpenMidRight][MoveRight][NormalPrint]What is it?[A]
+[OpenLeft][FastPrint]Bern's greatest treasure...
+the Fire Emblem.[A]
+[OpenRight][NormalPrint]What?![A]
+[OpenLeft][MoveMidLeft][CloseSpeechFast]In southern Bern lies a temple
+called the Shrine of Seals.[A]
+Within it lies the sword of Hartmut,
+founder of Bern.[A]
+[OpenRight][FastPrint]Is it...
+a legendary weapon?[A]
+[OpenMidLeft][CloseSpeechFast]
+Yes. The most powerful of
+them all, in fact.[A]
+It was made to slay the leader of
+the dragons in the Scouring.[A]
+It's power was so immense that it had
+to be sealed away after the war.[A]
+The Fire Emblem is the key to
+accessing it once more.[A]
+[OpenRight][FastPrint]The key...[A]
+[OpenMidLeft][CloseSpeechFast] It will also confer some
+measure of Hartmut's power,[A]
+though one would still need
+the blade to harness its true[A]
+might. I humbly ask you to
+help me retake my home,[A]
+in exchange for Hartmut's
+blessing.[A]
+[OpenRight][FastPrint]I am honored, Lady Guinivere.
+I accept.[A]
+
+
+
+
+
+
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x157]
+[OpenMidLeft][CloseSpeechFast]My brother...is forcing the world
+into submission with military might.[A]
+I cannot forgive him, no matter
+his reasons.[A]
+[OpenRight][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidLeft][ToggleMouthMove][FastPrint]All we must do to stop him is
+defeat the dragons he commands.[A]
+[OpenRight]Princess Guinivere...[A]
+[OpenMidLeft][MoveFarLeft]...I will be remembered in infamy,
+as a traitor to my nation.[A]
+[OpenRight][NormalPrint]No...[A]
+[OpenFarLeft][CloseSpeechFast]The people will resent me
+for the rest of my days.[A]
+Roy, promise me this
+one thing.[A]
+When we invade Bern, do
+not harm any civilians...[A]
+[OpenRight]I will not.
+I promise you.[A]
+[OpenFarLeft][FastPrint][ToggleSmile]...Thank you.[A]

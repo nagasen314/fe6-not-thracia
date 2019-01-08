@@ -1,5 +1,5 @@
 # fe6-not-thracia
-HMNG FE6 rework, inspired by Thracia.
+HMNG FE6 rework, inspired by Thracia. But only sorta.
 
 ## Setup
 
@@ -23,7 +23,7 @@ Juno -> Shanna + Tate
 Douglas + Cecilia + Perceval  
 
 ### Units:
-Roy: +1 MOV  
+Roy: +1 MOV, Promotion moved to after c16/16x, DEF +2 -> +3  
 Wolt: 4 -> 5 STR, 5 -> 10 SPD, 40% -> 45% STR  
 Bors: 1 -> 5 Lv, 7 -> 10 STR, 4 -> 8 SKL, 3 -> 11 SPD, 4 -> 6 LCK, 11 -> 10 DEF  
 Elen: 50% -> 80% MAG, 70% -> 80% LCK, 60% -> 90% RES   
@@ -39,35 +39,35 @@ Zeiss/Tate: D -> C base Lance rank
 Shanna: 30% -> 35% hit, 4 -> 5 STR  
 Hugh: Lv15 Mage -> Lv1 Sage, 17 -> 20 MAG, C -> A tomes, E -> B staffs  
 Sophia: Lv1 -> Lv9, 6 -> 8 MAG, x -> B staffs, 1 -> 45 staff xp gain on promotion, Torch + Barrier added to starting inventory  
-Warrior: Desert move cost 3 -> 2  
 Bartre: B -> C bows  
 Geese: 10 -> 12 STR, 9 -> 11 SKL, 9 -> 11 SPD, 0 -> 14 RES  
-Juno: 11 -> 12 STR, 16 -> 24 SPD, E -> C swords  
+Juno: 33 -> 38 HP, 11 -> 12 STR, 16 -> 24 SPD, 8 -> 10 DEF, E -> C swords  
 Douglas: 46 -> 50 HP, 19 -> 20 STR, 13 -> 16 SKL, 8 -> 10 SPD, 20 -> 24 DEF  
 Garret: C -> B axes  
 
+### Classes
+Warrior: Desert move cost 3 -> 2  
 
 ### Weapons  
 Rapier: +2 mt (5 -> 7), 25 -> 40 uses  
-Light Brand: -2 mt (9 -> 7), -3 wt (9 -> 6), 70 -> 75 hit, +3 DEF, Roy PRF  
 Hammer: 45 -> 50 hit  
 Halberd: 55 -> 60 hit  
 Short Bow: 80 -> 85 hit  
 Steel Bow: 65 -> 70 hit  
 Divinestone: 30 -> 60 uses, Range: 1 -> 1-2, Effective list includes Wyvern Rider class line  
 Slim Lance: 80 -> 85 hit  
-  
-### PRF's:  
-Roy - Light Brand (see above)  
-Wade - Pugi: 1-2 rng, 9 wt, 80 hit, 8 mt, 40 durability  
-Dorothy - Tower Bowù : 2-5 rng, 12 wt, 80 hit, 11 mt, 30 durability, +3 DEF  
-Lilina - FE12 Aura  
-Fir - FE5 Mareeta's Sword (Zephiel lock)  
 
 Halberd/Horseslayer/Rapier  
 - bonus dmg to Nomad class line  
-- bonus dmg to Troubadour class line  
-
+- bonus dmg to Troubadour class line    
+  
+#### PRF's:  
+Roy - Flame Brand: Roy PRF, 7 mt, 6 wt, 75 hit, +3 DEF, 40 uses  
+Wade - Pugi: 1-2 rng, 9 wt, 80 hit, 8 mt, 40 durability  
+Dorothy - Tower Bow: 2-5 rng, 12 wt, 80 hit, 11 mt, 30 durability, +3 DEF  
+Lilina - Thorhammer: 1-2 rng, 18 mt, 90 hit, 1 wt, 0 crit, 30 uses  
+Fir - Masamune: 1 rng, 11 mt, 70 hit, 6 wt, 20 crit, 60 uses, Brave, Nihil
+  
 ### Map  
 Chapter 7, 9: Vendors now sell Lightning tomes.  
 Chapter 20A, 19B - Wyrmslayers added to Armory.

@@ -10,7 +10,7 @@ HMNG FE6 rework, inspired by Thracia. But only sorta.
 ## Changelog
 
 ### Leadership System
-Every unit has a base C support with Roy, granting +5 hit/avo within 3 tiles. Sub-commanders provide this benefit as well to less units.  
+Every unit has a base C support with Roy, granting +5 hit/avo within 3 tiles. Sub-commanders provide this benefit as well to less units. This advances to B at Chapter 12, then A at Chapter 17.  
 All support growth rates set to 0.  
 
 #### Sub-commanders
@@ -26,15 +26,17 @@ Douglas + Cecilia + Perceval
 Roy: +1 MOV, Promotion moved to after c16/16x, DEF +2 -> +3  
 Wolt: 4 -> 5 STR, 5 -> 10 SPD, 40% -> 45% STR  
 Bors: 1 -> 5 Lv, 7 -> 10 STR, 4 -> 8 SKL, 3 -> 11 SPD, 4 -> 6 LCK, 11 -> 10 DEF  
-Elen: 50% -> 80% MAG, 70% -> 80% LCK, 60% -> 90% RES   
+Elen: 50% -> 100% MAG, 70% -> 80% LCK, 60% -> 90% RES   
 Lot: 4 -> 8 DEF, 35% -> 40% SPD  
 Lugh: 6 -> 12 SPD  
 Saul: 20 -> 22 HP, 2 -> 4 DEF  
 Dorothy: 19 -> 25 HP, 5	 -> 10 STR, 4 -> 8 DEF, 7 -> 10 CON, 15% -> 35% DEF  
+Sue: 7 -> 10 SKL, 8 -> 9 SPD  
 Treck: 30% -> 65% SKL, 35% -> 45% SPD, 50% -> 55% LCK, 5% -> 10% RES, E -> D swords, D -> C lances, +Iron sword to inventory  
 Oujay: 9 -> 12 SPD, 4 -> 8 DEF, 8 -> 10 CON, D -> C swords  
 Wendy: 19 -> 22 HP, 3 -> 14 SKL, 3 -> 5 SPD, 8 -> 10 DEF, 6 -> 10 LCK  
 Barth: 25 -> 28 HP, 10 -> 15 STR  
+Raigh: 23 -> 25 HP, 12 -> 14 MAG, 9 -> 11 SKL, 9 -> 11 SPD, 6 -> 8 LC, 5 -> 7 DEF, 10 -> 12 RES  
 Zeiss/Tate: D -> C base Lance rank  
 Shanna: 30% -> 35% hit, 4 -> 5 STR  
 Hugh: Lv15 Mage -> Lv1 Sage, 17 -> 20 MAG, C -> A tomes, E -> B staffs  
@@ -44,6 +46,7 @@ Geese: 10 -> 12 STR, 9 -> 11 SKL, 9 -> 11 SPD, 0 -> 14 RES
 Juno: 33 -> 38 HP, 11 -> 12 STR, 16 -> 24 SPD, 8 -> 10 DEF, E -> C swords  
 Douglas: 46 -> 50 HP, 19 -> 20 STR, 13 -> 16 SKL, 8 -> 10 SPD, 20 -> 24 DEF  
 Garret: C -> B axes  
+Fae: 5 -> 6 MOV  
 
 ### Classes
 Warrior: Desert move cost 3 -> 2  

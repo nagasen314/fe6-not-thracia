@@ -1,7 +1,7 @@
 # fe6-not-thracia
 HMNG FE6 rework, inspired by Thracia. But only sorta.
 
-# People who helped me out
+### People who helped me out
 HMNG
 FunnyVal
 Killua

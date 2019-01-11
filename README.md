@@ -1,6 +1,24 @@
 # fe6-not-thracia
 HMNG FE6 rework, inspired by Thracia. But only sorta.
 
+# People who helped me out
+HMNG
+FunnyVal
+Killua
+Swift
+ltranc
+Testers
+
+FEB
+Some dude Leon from the PE server
+7743 - FEBuilder help
+
+FEU - ASM Help
+Leonarth
+Tequila
+Snakey1
+
+
 ## Setup
 
 1. Install a UPS patcher from (http://www.feshrine.net/hacking/patchers.php).

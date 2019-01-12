@@ -38,7 +38,7 @@ Wendy: 19 -> 22 HP, 3 -> 14 SKL, 3 -> 5 SPD, 8 -> 10 DEF, 6 -> 10 LCK
 Barth: 25 -> 28 HP, 10 -> 15 STR  
 Raigh: 23 -> 25 HP, 12 -> 14 MAG, 9 -> 11 SKL, 9 -> 11 SPD, 6 -> 8 LC, 5 -> 7 DEF, 10 -> 12 RES  
 Zeiss/Tate: D -> C base Lance rank  
-Shanna: 30% -> 35% hit, 4 -> 5 STR  
+Shanna: 30% -> 35% STR, 4 -> 5 STR  
 Hugh: Lv15 Mage -> Lv1 Sage, 17 -> 20 MAG, C -> A tomes, E -> B staffs  
 Sophia: Lv1 -> Lv9, 6 -> 8 MAG, x -> B staffs, 1 -> 45 staff xp gain on promotion, Torch + Barrier added to starting inventory  
 Bartre: B -> C bows  

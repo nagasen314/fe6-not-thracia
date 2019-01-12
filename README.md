@@ -69,7 +69,7 @@ Roy - Flame Brand: Roy PRF, 7 mt, 6 wt, 75 hit, +3 DEF, 40 uses
 Wade - Pugi: 1-2 rng, 9 wt, 80 hit, 8 mt, 40 durability  
 Dorothy - Tower Bow: 2-5 rng, 12 wt, 80 hit, 11 mt, 30 durability, +3 DEF  
 Lilina - Thorhammer: 1-2 rng, 18 mt, 90 hit, 1 wt, 0 crit, 30 uses  
-Fir - Masamune: 1 rng, 11 mt, 70 hit, 6 wt, 20 crit, 60 uses, Brave, Nihil
+Fir - Ilahi Kilij: 1 rng, 11 mt, 70 hit, 6 wt, 20 crit, 60 uses, Brave  
   
 ### Map  
 Chapter 7, 9: Vendors now sell Lightning tomes.  

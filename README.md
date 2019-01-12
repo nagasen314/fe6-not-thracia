@@ -10,7 +10,7 @@ HMNG FE6 rework, inspired by Thracia. But only sorta.
 ## Changelog
 
 ### Leadership System
-Every unit has a base C support with Roy, granting +5 hit/avo within 3 tiles. Sub-commanders provide this benefit as well to less units. This advances to B at Chapter 12, then A at Chapter 17.  
+Every unit has a base C support with Roy, granting +5 hit/avo within 3 tiles. Sub-commanders provide this benefit as well to fewer units. This advances to B at Chapter 12, then A at Chapter 17.  
 All support growth rates set to 0.  
 
 #### Sub-commanders

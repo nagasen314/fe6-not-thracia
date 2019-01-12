@@ -74,3 +74,10 @@ Fir - Masamune: 1 rng, 11 mt, 70 hit, 6 wt, 20 crit, 60 uses, Brave, Nihil
 ### Map  
 Chapter 7, 9: Vendors now sell Lightning tomes.  
 Chapter 20A, 19B - Wyrmslayers added to Armory.
+
+#### People who helped me out a lot
+HMNG: FunnyVal, Killua, Swift, ltranc, Krash, Testers
+
+FEB: 7743, Some dude Leon from the PE server
+
+ASM (FEU Discord): Leonarth, Tequila, Snakey1  

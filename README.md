@@ -14,13 +14,14 @@ Every unit has a base C support with Roy, granting +5 hit/avo within 3 tiles. Su
 All support growth rates set to 0.  
 
 #### Sub-commanders
-Marcus -> Allen + Lance  
-Zealot -> Noah + Treck  
-Barth -> Wendy + Bors  
-Deke -> Wade + Lot  
-Dayan -> Sue + Shin  
-Juno -> Shanna + Tate  
-Douglas + Cecilia + Perceval  
+Marcus -> Allen, Lance  
+Zealot -> Noah, Treck  
+Barth -> Wendy, Bors  
+Deke -> Wade, Lot, Shanna  
+Klein -> Tate  
+Dayan -> Sue, Shin  
+Juno -> Shanna, Tate  
+Douglas <-> Cecilia <-> Perceval  
 
 ### Units:
 Roy: +1 MOV, Promotion moved to after c16/16x, DEF +2 -> +3  
@@ -40,7 +41,7 @@ Barth: 25 -> 28 HP, 10 -> 15 STR
 Raigh: 23 -> 25 HP, 12 -> 14 MAG, 9 -> 11 SKL, 9 -> 11 SPD, 6 -> 8 LC, 5 -> 7 DEF, 10 -> 12 RES  
 Zeiss/Tate: D -> C base Lance rank  
 Hugh: Lv15 Mage -> Lv1 Sage, 17 -> 20 MAG, C -> A tomes, E -> B staffs  
-Sophia: Lv1 -> Lv9, 6 -> 8 MAG, x -> B staffs, 1 -> 45 staff xp gain on promotion, Torch + Barrier added to starting inventory  
+Sophia: Lv1 -> Lv9, 6 -> 8 MAG, x -> B staffs, 1 -> 45 staff xp gain on promotion  
 Bartre: B -> C bows  
 Geese: 10 -> 12 STR, 9 -> 11 SKL, 9 -> 11 SPD, 0 -> 14 RES  
 Juno: 33 -> 38 HP, 11 -> 12 STR, 16 -> 24 SPD, 8 -> 10 DEF, E -> C swords  
@@ -71,9 +72,24 @@ Dorothy - Tower Bow: 2-5 rng, 12 wt, 80 hit, 11 mt, 30 durability, +3 DEF
 Lilina - Thorhammer: 1-2 rng, 18 mt, 90 hit, 1 wt, 0 crit, 30 uses  
 Fir - Ilahi Kilij: 1 rng, 11 mt, 70 hit, 6 wt, 20 crit, 60 uses, Brave  
   
-### Map  
-Chapter 7, 9: Vendors now sell Lightning tomes.  
-Chapter 20A, 19B - Wyrmslayers added to Armory.
+### Gameplay    
+Chapter 3:  
+- Chad starts with a Chest Key, intended to make Chapter 6 chest-opening easier.  
+- Roy and Hector's dialogue modified to mention Lilina's tomes.  
+Chapter 7, 9:  
+- Vendors now sell Lightning tomes.  
+Chapter 8:  
+- Roy and Lilina's dialogue modified to mention Hector gifting Lilina's tomes.  
+Chapter 14:
+- Sophia starts with Torch and Barrier in her inventory.  
+Chapter 16/16x:  
+- Roy and Guinivere's dialgoeu modified to explain Roy's promotion.  
+Chapter 20A, 19B:  
+- Wyrmslayers added to Armory.  
+Chapter 6, 8, 12, 16, 20A/B, 22:  
+- Cath has a Brave Sword replace the vulnerary in her inventory.  
+- Roy and Cath's dialogue modified to mention the Brave Sword.  
+
 
 #### People who helped me out a lot
 HMNG: FunnyVal, Killua, Swift, ltranc, Krash, Testers

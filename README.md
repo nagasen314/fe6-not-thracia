@@ -76,16 +76,22 @@ Fir - Ilahi Kilij: 1 rng, 11 mt, 70 hit, 6 wt, 20 crit, 60 uses, Brave
 Chapter 3:  
 - The left armor inside the castle has a Chest Key, intended to make Chapter 6 chest-opening easier if the player steals it.  
 - Roy and Hector's dialogue modified to mention Lilina's tomes.  
+
 Chapter 7, 9:  
 - Vendors now sell Lightning tomes.  
+
 Chapter 8:  
 - Roy and Lilina's dialogue modified to mention Hector gifting Lilina's tomes.  
+
 Chapter 14:
 - Sophia starts with Torch and Barrier in her inventory.  
+
 Chapter 16/16x:  
 - Roy and Guinivere's dialgoeu modified to explain Roy's promotion.  
+
 Chapter 20A, 19B:  
 - Wyrmslayers added to Armory.  
+
 Chapter 6, 8, 12, 16, 20A/B, 22:  
 - Cath has a Brave Sword replace the vulnerary in her inventory.  
 - Roy and Cath's dialogue modified to mention the Brave Sword.  

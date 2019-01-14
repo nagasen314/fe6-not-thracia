@@ -74,7 +74,7 @@ Fir - Ilahi Kilij: 1 rng, 11 mt, 70 hit, 6 wt, 20 crit, 60 uses, Brave
   
 ### Gameplay    
 Chapter 3:  
-- Chad starts with a Chest Key, intended to make Chapter 6 chest-opening easier.  
+- The left armor inside the castle has a Chest Key, intended to make Chapter 6 chest-opening easier if the player steals it.  
 - Roy and Hector's dialogue modified to mention Lilina's tomes.  
 Chapter 7, 9:  
 - Vendors now sell Lightning tomes.  

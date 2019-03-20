@@ -42,7 +42,7 @@ Raigh: 23 -> 25 HP, 12 -> 14 MAG, 9 -> 11 SKL, 9 -> 11 SPD, 6 -> 8 LC, 5 -> 7 DE
 Zeiss/Tate: D -> C base Lance rank  
 Hugh: Lv15 Mage -> Lv1 Sage, 17 -> 20 MAG, C -> A tomes, E -> B staffs  
 Sophia: Lv1 -> Lv9, 6 -> 8 MAG, 5 -> 6 MOV, x -> B staffs, 1 -> 45 staff xp gain on promotion, 6 -> 7 MOV on promotion  
-Bartre: B -> C bows  
+Bartre: C -> B bows  
 Geese: 10 -> 12 STR, 9 -> 11 SKL, 9 -> 11 SPD, 0 -> 14 RES  
 Juno: 33 -> 38 HP, 11 -> 12 STR, 16 -> 24 SPD, 8 -> 10 DEF, E -> C swords  
 Douglas: 46 -> 50 HP, 19 -> 20 STR, 13 -> 16 SKL, 8 -> 10 SPD, 20 -> 24 DEF  

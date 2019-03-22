@@ -4,7 +4,7 @@ HMNG FE6 rework, inspired by Thracia. But only sorta.
 ## Setup
 
 1. Install a UPS patcher from (http://www.feshrine.net/hacking/patchers.php).
-2. Apply .ups patch.
+2. Apply .ups patch. You'll want to check the "ignore" box for errors!  
 3. Enjoy!
 
 ## Changelog

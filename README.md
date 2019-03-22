@@ -87,7 +87,7 @@ Chapter 14:
 - Sophia starts with Torch and Barrier in her inventory.  
 
 Chapter 16/16x:  
-- Roy and Guinivere's dialgoeu modified to explain Roy's promotion.  
+- Roy and Guinivere's dialogue modified to explain Roy's promotion.  
 
 Chapter 20A, 19B:  
 - Wyrmslayers added to Armory.  

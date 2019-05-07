@@ -48,6 +48,7 @@ Juno: 33 -> 38 HP, 11 -> 12 STR, 16 -> 24 SPD, 8 -> 10 DEF, E -> C swords
 Douglas: 46 -> 50 HP, 19 -> 20 STR, 13 -> 16 SKL, 8 -> 10 SPD, 20 -> 24 DEF  
 Garret: C -> B axes  
 Fae: 5 -> 6 MOV  
+Yoder: A -> S light  
 
 ### Classes
 Warrior: Desert move cost 3 -> 2  
@@ -83,11 +84,36 @@ Chapter 7, 9:
 Chapter 8:  
 - Roy and Lilina's dialogue modified to mention Hector gifting Lilina's tomes.  
 
+Chapter 11A/10B:  
+- Orion's Bolt from village changed to Knight Crest.
+
+Chapter 12:  
+- Sniper has stealable Orion's Bolt.  
+
+Chapter 13:  
+- Lower right Hero has stealable Hero Crest.  
+- Al's Sword village now gives Berserk instead.  
+
 Chapter 14:
 - Sophia starts with Torch and Barrier in her inventory.  
 
-Chapter 16/16x:  
+Chapter 15:  
+- Top right Valkyrie has stealable Guiding Ring.  
+- PP music changed to "One Will".  
+- EP music changed to "Wild Frontier".  
+
+Chapter 16:  
+- Silver Bow chest now gives a Sleep staff.  
+- PP music changed to "Beneath a New Light".  
+- EP music changed to "Gaiden EP".  
+
+C16x:  
 - Roy and Guinivere's dialogue modified to explain Roy's promotion.  
+- Player given Silence staff on chapter completion.  
+
+Chapter 17B:
+- PP music changed to "One Will".  
+- EP music changed to "Wild Frontier".  
 
 Chapter 20A, 19B:  
 - Wyrmslayers added to Armory.  
@@ -96,6 +122,20 @@ Chapter 6, 8, 12, 16, 20A/B, 22:
 - Cath has a Brave Sword replace the vulnerary in her inventory.  
 - Roy and Cath's dialogue modified to mention the Brave Sword.  
 
+
+Yodel wrank to S
+C15 - one will/wild frontier
+c16 - beneath a new light/gaiden EP
+c17B - one will/distant lands
+	
+C12 - sniper stealable orion's bolt
+C11A/10B - orion's bolt => knight crest
+C13 - hero has hero crest
+C15 - valk has guiding ring
+
+c13 village => berserk
+c16 silver bow => sleep (can help with douglas)
+c16x silence after chapter
 
 #### People who helped me out a lot
 HMNG: FunnyVal, Killua, Swift, ltranc, Krash, Testers

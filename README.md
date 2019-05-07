@@ -118,6 +118,9 @@ Chapter 17B:
 Chapter 20A, 19B:  
 - Wyrmslayers added to Armory.  
 
+Chapter 20, 21, 22:  
+- Stealable promotion items removed.  
+
 Chapter 6, 8, 12, 16, 20A/B, 22:  
 - Cath has a Brave Sword replace the vulnerary in her inventory.  
 - Roy and Cath's dialogue modified to mention the Brave Sword.  

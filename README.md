@@ -107,7 +107,7 @@ Chapter 16:
 - PP music changed to "Beneath a New Light".  
 - EP music changed to "Gaiden EP".  
 
-C16x:  
+Chapter 16x:  
 - Roy and Guinivere's dialogue modified to explain Roy's promotion.  
 - Player given Silence staff on chapter completion.  
 

@@ -122,21 +122,6 @@ Chapter 6, 8, 12, 16, 20A/B, 22:
 - Cath has a Brave Sword replace the vulnerary in her inventory.  
 - Roy and Cath's dialogue modified to mention the Brave Sword.  
 
-
-Yodel wrank to S
-C15 - one will/wild frontier
-c16 - beneath a new light/gaiden EP
-c17B - one will/distant lands
-	
-C12 - sniper stealable orion's bolt
-C11A/10B - orion's bolt => knight crest
-C13 - hero has hero crest
-C15 - valk has guiding ring
-
-c13 village => berserk
-c16 silver bow => sleep (can help with douglas)
-c16x silence after chapter
-
 #### People who helped me out a lot
 HMNG: FunnyVal, Killua, Swift, ltranc, Krash, Testers
 
